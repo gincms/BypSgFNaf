@@ -6,7 +6,7 @@
     "url": "https://lambomoon.club/news/",
     "contentRoot": "",
     "defaultSection": "",
-    "defaultBlog": "0",
+    "defaultBlog": "1",
     "theme": "gin-lm",
     "gaTrackingId": "UA-113364681-1",
     "postSyncCommand": "ssh lambomoon 'cd /var/www/lambomoon-news && git reset --hard && git pull && chmod -R 755 ../lambomoon-news'",
