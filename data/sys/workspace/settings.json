@@ -1,10 +1,16 @@
 {
   "site": {
-    "name": "",
+    "name": "Crypto News",
     "tagline": "",
     "description": "",
-    "url": "",
-    "theme": "gin-whitepaper",
-    "gaTrackingId": ""
+    "url": "https://lambomoon.club/news/",
+    "contentRoot": "",
+    "defaultSection": "",
+    "defaultBlog": "0",
+    "theme": "gin-lm",
+    "gaTrackingId": "",
+    "postSyncCommand": "",
+    "head": "",
+    "foot": ""
   }
 }
