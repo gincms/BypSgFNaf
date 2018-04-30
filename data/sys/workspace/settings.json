@@ -9,7 +9,7 @@
     "defaultBlog": "0",
     "theme": "gin-lm",
     "gaTrackingId": "",
-    "postSyncCommand": "",
+    "postSyncCommand": "ssh lambomoon 'cd /var/www/lambomoon-news && git reset --hard && git pull && chmod -R 755 ../lambomoon-news'",
     "head": "",
     "foot": ""
   }
