@@ -5,5 +5,11 @@
     "title": "Cryptocurrency News",
     "url": "/news/",
     "list": "1"
+  },
+  "SJCjwNdaf": {
+    "id": "SJCjwNdaf",
+    "type": "page",
+    "title": "What is BitcoinZ (BTCZ)?",
+    "url": "/news/what-is-bitcoinz-btcz/"
   }
 }
