@@ -4,14 +4,14 @@
   "slug": "what-is-bitcoinz-btcz",
   "section": "",
   "url": "/news/what-is-bitcoinz-btcz/",
-  "body": "## BitcoinZ summary\r\n\r\n## BitcoinZ's distinguishing features\r\n\r\n## BitcoinZ team\r\n\r\n## BitcoinZ community\r\n\r\n## Mining BitcoinZ",
+  "body": "## Introduction to BitcoinZ\r\n\r\nBitcoinZ (BTCZ) is a mineable equihash altcoin based on ZCash (ZEC) that allows fast, private, low-cost transactions. It had no premine, no ICO and there's no dev tax or founders reward. It's completely community-driven and the focus is decentralization, a theme that runs through every aspect of BitcoinZ. \r\n\r\nBitcoinZ Summary ||\r\n-|-\r\nName | BitcoinZ\r\nTicker | BTCZ\r\nAlgorithm | Equihash\r\nType | Proof of Work (PoW)\r\nSupply | 21 Billion\r\nBlock Reward | 12,500 BTCZ\r\n\r\n## BitcoinZ's technology\r\n\r\nBitcoinZ uses the equihash algorithm, which is an algorithm known for its ASIC (Application Specific Integrated Circuit) resistance. This means network hash is unlikely to be centralized with a few high-end computers. Anyone with a GPU or even CPU can mine and receive BTCZ.\r\n\r\nThe other key piece of technology in use is zk-SNARKS, which allows transactions to be stored on the blockchain completely encrypted, but still allows for verification and validation. In simpler terms, transactions can be proved valid without revealing any information about them. This allows for anonymous transactions along\r\n\r\n## BitcoinZ team\r\n\r\n## BitcoinZ community\r\n\r\n## Mining BitcoinZ",
   "featured-image": {
     "src": ""
   },
   "summary": "",
   "blog": "1",
   "created": "2018-05-03T07:17:57.668Z",
-  "updated": "2018-05-03T07:44:10.029Z",
+  "updated": "2018-05-03T08:53:01.661Z",
   "published": "2018-05-03T07:18:01.429Z",
   "contentType": "page",
   "id": "SJCjwNdaf"
