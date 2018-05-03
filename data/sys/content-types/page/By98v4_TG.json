@@ -1,0 +1,18 @@
+{
+  "title": "Cryptocurrency News",
+  "subtitle": "LamboMoon",
+  "slug": "index",
+  "section": "",
+  "url": "/news/",
+  "body": "{{list type=blog}}",
+  "featured-image": {
+    "src": ""
+  },
+  "summary": "",
+  "list": "1",
+  "created": "2018-05-03T07:16:33.812Z",
+  "updated": "",
+  "published": "",
+  "contentType": "page",
+  "id": "By98v4_TG"
+}
