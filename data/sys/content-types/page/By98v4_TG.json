@@ -4,14 +4,14 @@
   "slug": "index",
   "section": "",
   "url": "/news/",
-  "body": "{{list}}",
+  "body": "{{list type=page}}",
   "featured-image": {
     "src": ""
   },
   "summary": "",
   "list": "1",
   "created": "2018-05-03T07:16:33.812Z",
-  "updated": "2018-05-03T13:09:16.692Z",
+  "updated": "2018-05-03T13:09:47.026Z",
   "published": "2018-05-03T07:16:48.471Z",
   "contentType": "page",
   "id": "By98v4_TG"
